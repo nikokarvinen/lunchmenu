@@ -8,7 +8,7 @@ This project utilizes Robot Framework and Selenium to automate the task of fetch
 
 ```bash
 git clone https://github.com/nikokarvinen/lunchmenu.git
-cd lunch-automation
+cd lunchmenu
 ```
 
 2. Build the Docker image:
@@ -23,7 +23,7 @@ docker build -t lunch_robot .
 ./run_and_copy.sh
 ```
 
-![](images/menu.jpg)
+![menu-image](images/menu_img.jpg)
 
 ## Repository contents
 
